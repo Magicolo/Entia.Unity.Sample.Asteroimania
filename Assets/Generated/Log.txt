@@ -1,0 +1,392 @@
+2019-03-11 4:20:50 PM
+
+Arguments:
+	--inputs
+	C:\Projects\Unity\Outerminds\Asteroimania\Assets
+	--output
+	C:\Projects\Unity\Outerminds\Asteroimania\Assets\Generated
+	--suffix
+	Generated
+	--assemblies
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit;C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades;C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\Managed
+	--log
+	Log.txt
+	--timeout
+	00:00:10
+	--watch
+	6740;636879173640743394;True;C:\Projects\Unity\Outerminds\Asteroimania\Assets\Plugins\Entia\.Generator\Entia.Unity.Generate.dll
+
+Assemblies:
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Accessibility.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Boo.Lang.Compiler.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Boo.Lang.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Boo.Lang.Extensions.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Boo.Lang.Parser.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Boo.Lang.PatternMatching.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Boo.Lang.Useful.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Commons.Xml.Relaxng.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\cscompmgd.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\CustomMarshalers.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\I18N.CJK.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\I18N.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\I18N.MidEast.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\I18N.Other.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\I18N.Rare.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\I18N.West.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\IBM.Data.DB2.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\ICSharpCode.SharpZipLib.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Microsoft.CSharp.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Microsoft.Web.Infrastructure.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Mono.CompilerServices.SymbolWriter.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Mono.CSharp.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Mono.Data.Sqlite.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Mono.Data.Tds.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Mono.Messaging.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Mono.Posix.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Mono.Security.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Mono.WebBrowser.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\mscorlib.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Novell.Directory.Ldap.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\SMDiagnostics.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\System.ComponentModel.Composition.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\System.ComponentModel.DataAnnotations.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\System.Configuration.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\System.Configuration.Install.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\System.Core.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\System.Data.DataSetExtensions.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\System.Data.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\System.Data.Entity.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\System.Data.Linq.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\System.Data.OracleClient.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\System.Data.Services.Client.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\System.Data.Services.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\System.Design.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\System.DirectoryServices.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\System.DirectoryServices.Protocols.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\System.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\System.Drawing.Design.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\System.Drawing.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\System.EnterpriseServices.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\System.IdentityModel.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\System.IdentityModel.Selectors.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\System.IO.Compression.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\System.IO.Compression.FileSystem.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\System.Json.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\System.Json.Microsoft.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\System.Management.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\System.Messaging.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\System.Net.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\System.Net.Http.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\System.Net.Http.Formatting.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\System.Net.Http.WebRequest.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\System.Numerics.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\System.Numerics.Vectors.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\System.Reactive.Core.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\System.Reactive.Debugger.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\System.Reactive.Experimental.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\System.Reactive.Interfaces.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\System.Reactive.Linq.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\System.Reactive.Observable.Aliases.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\System.Reactive.PlatformServices.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\System.Reactive.Providers.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\System.Reactive.Runtime.Remoting.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\System.Reactive.Windows.Forms.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\System.Reactive.Windows.Threading.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\System.Reflection.Context.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\System.Runtime.Caching.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\System.Runtime.DurableInstancing.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\System.Runtime.Remoting.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\System.Runtime.Serialization.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\System.Runtime.Serialization.Formatters.Soap.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\System.Security.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\System.ServiceModel.Activation.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\System.ServiceModel.Discovery.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\System.ServiceModel.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\System.ServiceModel.Internals.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\System.ServiceModel.Routing.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\System.ServiceModel.Web.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\System.ServiceProcess.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\System.Threading.Tasks.Dataflow.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\System.Transactions.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\System.Web.Abstractions.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\System.Web.ApplicationServices.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\System.Web.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\System.Web.DynamicData.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\System.Web.Extensions.Design.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\System.Web.Extensions.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\System.Web.Http.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\System.Web.Http.SelfHost.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\System.Web.Http.WebHost.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\System.Web.Mvc.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\System.Web.Razor.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\System.Web.RegularExpressions.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\System.Web.Routing.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\System.Web.Services.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\System.Web.WebPages.Deployment.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\System.Web.WebPages.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\System.Web.WebPages.Razor.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\System.Windows.Forms.DataVisualization.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\System.Windows.Forms.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\System.Xaml.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\System.Xml.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\System.Xml.Linq.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\SystemWebTestShim.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\UnityScript.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\UnityScript.Lang.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\WindowsBase.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\Microsoft.Win32.Primitives.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\Microsoft.Win32.Registry.AccessControl.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\Microsoft.Win32.Registry.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\netstandard.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.AppContext.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.Collections.Concurrent.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.Collections.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.Collections.NonGeneric.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.Collections.Specialized.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.ComponentModel.Annotations.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.ComponentModel.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.ComponentModel.EventBasedAsync.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.ComponentModel.Primitives.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.ComponentModel.TypeConverter.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.Console.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.Data.Common.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.Data.SqlClient.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.Diagnostics.Contracts.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.Diagnostics.Debug.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.Diagnostics.FileVersionInfo.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.Diagnostics.Process.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.Diagnostics.StackTrace.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.Diagnostics.TextWriterTraceListener.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.Diagnostics.Tools.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.Diagnostics.TraceEvent.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.Diagnostics.TraceSource.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.Diagnostics.Tracing.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.Drawing.Primitives.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.Dynamic.Runtime.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.Globalization.Calendars.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.Globalization.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.Globalization.Extensions.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.IO.Compression.ZipFile.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.IO.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.IO.FileSystem.AccessControl.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.IO.FileSystem.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.IO.FileSystem.DriveInfo.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.IO.FileSystem.Primitives.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.IO.FileSystem.Watcher.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.IO.IsolatedStorage.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.IO.MemoryMappedFiles.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.IO.Pipes.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.IO.UnmanagedMemoryStream.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.Linq.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.Linq.Expressions.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.Linq.Parallel.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.Linq.Queryable.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.Net.AuthenticationManager.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.Net.Cache.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.Net.Http.Rtc.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.Net.HttpListener.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.Net.Mail.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.Net.NameResolution.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.Net.NetworkInformation.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.Net.Ping.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.Net.Primitives.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.Net.Requests.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.Net.Security.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.Net.ServicePoint.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.Net.Sockets.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.Net.Utilities.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.Net.WebHeaderCollection.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.Net.WebSockets.Client.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.Net.WebSockets.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.ObjectModel.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.Reflection.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.Reflection.Emit.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.Reflection.Emit.ILGeneration.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.Reflection.Emit.Lightweight.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.Reflection.Extensions.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.Reflection.Primitives.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.Reflection.TypeExtensions.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.Resources.Reader.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.Resources.ReaderWriter.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.Resources.ResourceManager.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.Resources.Writer.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.Runtime.CompilerServices.VisualC.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.Runtime.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.Runtime.Extensions.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.Runtime.Handles.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.Runtime.InteropServices.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.Runtime.InteropServices.RuntimeInformation.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.Runtime.InteropServices.WindowsRuntime.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.Runtime.Numerics.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.Runtime.Serialization.Formatters.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.Runtime.Serialization.Json.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.Runtime.Serialization.Primitives.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.Runtime.Serialization.Xml.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.Security.AccessControl.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.Security.Claims.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.Security.Cryptography.Algorithms.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.Security.Cryptography.Csp.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.Security.Cryptography.DeriveBytes.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.Security.Cryptography.Encoding.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.Security.Cryptography.Encryption.Aes.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.Security.Cryptography.Encryption.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.Security.Cryptography.Encryption.ECDiffieHellman.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.Security.Cryptography.Encryption.ECDsa.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.Security.Cryptography.Hashing.Algorithms.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.Security.Cryptography.Hashing.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.Security.Cryptography.Primitives.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.Security.Cryptography.ProtectedData.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.Security.Cryptography.RandomNumberGenerator.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.Security.Cryptography.RSA.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.Security.Cryptography.X509Certificates.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.Security.Principal.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.Security.Principal.Windows.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.Security.SecureString.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.ServiceModel.Duplex.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.ServiceModel.Http.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.ServiceModel.NetTcp.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.ServiceModel.Primitives.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.ServiceModel.Security.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.ServiceProcess.ServiceController.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.Text.Encoding.CodePages.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.Text.Encoding.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.Text.Encoding.Extensions.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.Text.RegularExpressions.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.Threading.AccessControl.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.Threading.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.Threading.Overlapped.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.Threading.Tasks.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.Threading.Tasks.Parallel.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.Threading.Thread.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.Threading.ThreadPool.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.Threading.Timer.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.ValueTuple.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.Xml.ReaderWriter.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.Xml.XDocument.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.Xml.XmlDocument.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.Xml.XmlSerializer.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.Xml.XPath.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.Xml.XPath.XDocument.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\MonoBleedingEdge\lib\mono\unityjit\Facades\System.Xml.Xsl.Primitives.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\Managed\ExCSS.Unity.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\Managed\nunit.framework.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\Managed\Unity.Cecil.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\Managed\Unity.Cecil.Mdb.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\Managed\Unity.Cecil.Pdb.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\Managed\Unity.Cecil.Rocks.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\Managed\Unity.CecilTools.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\Managed\Unity.DataContract.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\Managed\Unity.IvyParser.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\Managed\Unity.Legacy.NRefactory.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\Managed\Unity.Locator.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\Managed\Unity.SerializationLogic.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\Managed\Unity.UNetWeaver.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\Managed\UnityEditor.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\Managed\UnityEditor.Graphs.dll
+	C:\Program Files\Unity\Hub\Editor\2018.3.5f1\Editor\Data\Managed\UnityEngine.dll
+
+Current:
+	C:\Projects\Unity\Outerminds\Asteroimania\Assets\Generated\Components\Engine.cs
+	C:\Projects\Unity\Outerminds\Asteroimania\Assets\Generated\Components\FadeTo.cs
+	C:\Projects\Unity\Outerminds\Asteroimania\Assets\Generated\Components\Input.cs
+	C:\Projects\Unity\Outerminds\Asteroimania\Assets\Generated\Components\Lifetime.cs
+	C:\Projects\Unity\Outerminds\Asteroimania\Assets\Generated\Components\LinearMotion.cs
+	C:\Projects\Unity\Outerminds\Asteroimania\Assets\Generated\Components\Motion.cs
+	C:\Projects\Unity\Outerminds\Asteroimania\Assets\Generated\Components\Position.cs
+	C:\Projects\Unity\Outerminds\Asteroimania\Assets\Generated\Components\ScaleTo.cs
+	C:\Projects\Unity\Outerminds\Asteroimania\Assets\Generated\Components\Velocity.cs
+	C:\Projects\Unity\Outerminds\Asteroimania\Assets\Generated\Components\Weapon.cs
+	C:\Projects\Unity\Outerminds\Asteroimania\Assets\Generated\Resources\Camera.cs
+	C:\Projects\Unity\Outerminds\Asteroimania\Assets\Generated\Entia\Components\Debug.cs
+	C:\Projects\Unity\Outerminds\Asteroimania\Assets\Generated\Entia\Components\IsDisabled.cs
+	C:\Projects\Unity\Outerminds\Asteroimania\Assets\Generated\Entia\Components\Pooled.cs
+	C:\Projects\Unity\Outerminds\Asteroimania\Assets\Generated\Entia\Resources\Time.cs
+	C:\Projects\Unity\Outerminds\Asteroimania\Assets\Generated\Extensions\Systems\InputMotion.cs
+	C:\Projects\Unity\Outerminds\Asteroimania\Assets\Generated\Extensions\Systems\InputWeaponry.cs
+	C:\Projects\Unity\Outerminds\Asteroimania\Assets\Generated\Extensions\Systems\LinearMotion.cs
+	C:\Projects\Unity\Outerminds\Asteroimania\Assets\Generated\Extensions\Systems\LookAtMouse.cs
+	C:\Projects\Unity\Outerminds\Asteroimania\Assets\Generated\Extensions\Systems\ShipEngine.cs
+	C:\Projects\Unity\Outerminds\Asteroimania\Assets\Generated\Extensions\Systems\SynchronizePooled.cs
+	C:\Projects\Unity\Outerminds\Asteroimania\Assets\Generated\Extensions\Systems\SynchronizeRigidbody.cs
+	C:\Projects\Unity\Outerminds\Asteroimania\Assets\Generated\Extensions\Systems\SynchronizeTransform.cs
+	C:\Projects\Unity\Outerminds\Asteroimania\Assets\Generated\Extensions\Systems\UpdateColor.cs
+	C:\Projects\Unity\Outerminds\Asteroimania\Assets\Generated\Extensions\Systems\UpdateLifetime.cs
+	C:\Projects\Unity\Outerminds\Asteroimania\Assets\Generated\Extensions\Systems\UpdateScale.cs
+	C:\Projects\Unity\Outerminds\Asteroimania\Assets\Generated\Extensions\Entia\Unity\Systems\LogException.cs
+	C:\Projects\Unity\Outerminds\Asteroimania\Assets\Generated\Extensions\Entia\Unity\Systems\SynchronizeGameObject.cs
+	C:\Projects\Unity\Outerminds\Asteroimania\Assets\Generated\Extensions\Entia\Unity\Systems\UpdateTime.cs
+
+Inputs:
+	C:\Projects\Unity\Outerminds\Asteroimania\Assets\Scripts\Ship.cs
+	C:\Projects\Unity\Outerminds\Asteroimania\Assets\Scripts\SpriteAnimator.cs
+	C:\Projects\Unity\Outerminds\Asteroimania\Assets\Plugins\Entia.Pool\Cloner.cs
+	C:\Projects\Unity\Outerminds\Asteroimania\Assets\Plugins\Entia.Pool\Pooled.cs
+	C:\Projects\Unity\Outerminds\Asteroimania\Assets\Plugins\Entia.Pool\SynchronizePooled.cs
+	C:\Projects\Unity\Outerminds\Asteroimania\Assets\Scripts\Components\Engine.cs
+	C:\Projects\Unity\Outerminds\Asteroimania\Assets\Scripts\Components\FadeTo.cs
+	C:\Projects\Unity\Outerminds\Asteroimania\Assets\Scripts\Components\Input.cs
+	C:\Projects\Unity\Outerminds\Asteroimania\Assets\Scripts\Components\Lifetime.cs
+	C:\Projects\Unity\Outerminds\Asteroimania\Assets\Scripts\Components\LinearMotion.cs
+	C:\Projects\Unity\Outerminds\Asteroimania\Assets\Scripts\Components\Motion.cs
+	C:\Projects\Unity\Outerminds\Asteroimania\Assets\Scripts\Components\Position.cs
+	C:\Projects\Unity\Outerminds\Asteroimania\Assets\Scripts\Components\ScaleTo.cs
+	C:\Projects\Unity\Outerminds\Asteroimania\Assets\Scripts\Components\Velocity.cs
+	C:\Projects\Unity\Outerminds\Asteroimania\Assets\Scripts\Components\Weapon.cs
+	C:\Projects\Unity\Outerminds\Asteroimania\Assets\Scripts\Controllers\MainController.cs
+	C:\Projects\Unity\Outerminds\Asteroimania\Assets\Scripts\Resources\Camera.cs
+	C:\Projects\Unity\Outerminds\Asteroimania\Assets\Scripts\Systems\InputMotion.cs
+	C:\Projects\Unity\Outerminds\Asteroimania\Assets\Scripts\Systems\InputWeaponry.cs
+	C:\Projects\Unity\Outerminds\Asteroimania\Assets\Scripts\Systems\LinearMotion.cs
+	C:\Projects\Unity\Outerminds\Asteroimania\Assets\Scripts\Systems\LookAtMouse.cs
+	C:\Projects\Unity\Outerminds\Asteroimania\Assets\Scripts\Systems\ShipEngine.cs
+	C:\Projects\Unity\Outerminds\Asteroimania\Assets\Scripts\Systems\SynchronizeRigidbody.cs
+	C:\Projects\Unity\Outerminds\Asteroimania\Assets\Scripts\Systems\SynchronizeTransform.cs
+	C:\Projects\Unity\Outerminds\Asteroimania\Assets\Scripts\Systems\UpdateColor.cs
+	C:\Projects\Unity\Outerminds\Asteroimania\Assets\Scripts\Systems\UpdateLifetime.cs
+	C:\Projects\Unity\Outerminds\Asteroimania\Assets\Scripts\Systems\UpdateScale.cs
+
+Outputs:
+	C:\Projects\Unity\Outerminds\Asteroimania\Assets\Generated\Entia\Components\Pooled.cs
+	C:\Projects\Unity\Outerminds\Asteroimania\Assets\Generated\Entia\Components\IsDisabled.cs
+	C:\Projects\Unity\Outerminds\Asteroimania\Assets\Generated\Entia\Components\Debug.cs
+	C:\Projects\Unity\Outerminds\Asteroimania\Assets\Generated\Entia\Resources\Time.cs
+	C:\Projects\Unity\Outerminds\Asteroimania\Assets\Generated\Components\Engine.cs
+	C:\Projects\Unity\Outerminds\Asteroimania\Assets\Generated\Components\FadeTo.cs
+	C:\Projects\Unity\Outerminds\Asteroimania\Assets\Generated\Components\Input.cs
+	C:\Projects\Unity\Outerminds\Asteroimania\Assets\Generated\Components\Lifetime.cs
+	C:\Projects\Unity\Outerminds\Asteroimania\Assets\Generated\Components\LinearMotion.cs
+	C:\Projects\Unity\Outerminds\Asteroimania\Assets\Generated\Components\Motion.cs
+	C:\Projects\Unity\Outerminds\Asteroimania\Assets\Generated\Components\Position.cs
+	C:\Projects\Unity\Outerminds\Asteroimania\Assets\Generated\Components\ScaleTo.cs
+	C:\Projects\Unity\Outerminds\Asteroimania\Assets\Generated\Components\Velocity.cs
+	C:\Projects\Unity\Outerminds\Asteroimania\Assets\Generated\Components\Weapon.cs
+	C:\Projects\Unity\Outerminds\Asteroimania\Assets\Generated\Resources\Camera.cs
+	C:\Projects\Unity\Outerminds\Asteroimania\Assets\Generated\Extensions\Entia\Unity\Systems\LogException.cs
+	C:\Projects\Unity\Outerminds\Asteroimania\Assets\Generated\Extensions\Entia\Unity\Systems\SynchronizeGameObject.cs
+	C:\Projects\Unity\Outerminds\Asteroimania\Assets\Generated\Extensions\Entia\Unity\Systems\UpdateTime.cs
+	C:\Projects\Unity\Outerminds\Asteroimania\Assets\Generated\Extensions\Systems\SynchronizePooled.cs
+	C:\Projects\Unity\Outerminds\Asteroimania\Assets\Generated\Extensions\Systems\InputMotion.cs
+	C:\Projects\Unity\Outerminds\Asteroimania\Assets\Generated\Extensions\Systems\InputWeaponry.cs
+	C:\Projects\Unity\Outerminds\Asteroimania\Assets\Generated\Extensions\Systems\LinearMotion.cs
+	C:\Projects\Unity\Outerminds\Asteroimania\Assets\Generated\Extensions\Systems\LookAtMouse.cs
+	C:\Projects\Unity\Outerminds\Asteroimania\Assets\Generated\Extensions\Systems\ShipEngine.cs
+	C:\Projects\Unity\Outerminds\Asteroimania\Assets\Generated\Extensions\Systems\SynchronizeRigidbody.cs
+	C:\Projects\Unity\Outerminds\Asteroimania\Assets\Generated\Extensions\Systems\SynchronizeTransform.cs
+	C:\Projects\Unity\Outerminds\Asteroimania\Assets\Generated\Extensions\Systems\UpdateColor.cs
+	C:\Projects\Unity\Outerminds\Asteroimania\Assets\Generated\Extensions\Systems\UpdateLifetime.cs
+	C:\Projects\Unity\Outerminds\Asteroimania\Assets\Generated\Extensions\Systems\UpdateScale.cs
+
+Renamed:
+
+
+Deleted:
+
+
+Created:
+
+
+Cleaned:
+
+
+
+Elapsed: 00:00:00.8018797

@@ -2,14 +2,15 @@
 using Entia.Unity;
 using Systems;
 using static Entia.Nodes.Node;
+using static Entia.Unity.Nodes;
 
-namespace Controllers
+namespace Nodes
 {
-    public sealed class MainController : ControllerReference
+    public sealed class MainController : NodeReference
     {
         public override Node Node =>
             Sequence(nameof(MainController),
-                Nodes.Default,
+                Default,
                 System<SynchronizePooled>(),
 
                 // Input

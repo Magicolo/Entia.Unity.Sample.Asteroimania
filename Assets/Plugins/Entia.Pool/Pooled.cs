@@ -7,7 +7,6 @@ using UnityEngine;
 
 namespace Entia.Components
 {
-    [Plain]
     public struct Pooled : IComponent
     {
         public EntityReference Reference;

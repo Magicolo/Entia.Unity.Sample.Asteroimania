@@ -8,6 +8,8 @@ using Entia.Modules;
 using Entia.Unity;
 using UnityEngine;
 
+public enum Depth { Deep, Shallow }
+
 namespace Entia.Injectables
 {
     public readonly struct Cloner : IInjectable
@@ -40,15 +42,14 @@ namespace Entia.Injectables
                 instance => instance.Clear());
         }
 
-        public Entity Clone(Entity source, Depth depth = Depth.Shallow)
+        public Entity Clone(Entity source)
         {
             var target = _entities.Create();
-            Clone(source, target, depth);
+            Clone(source, target);
             return target;
         }
 
-        /// <inheritdoc cref="Modules.Components.Clone(Entity, Entity, Depth)"/>
-        public bool Clone(Entity source, Entity target, Depth depth = Depth.Shallow) => _components.Clone(source, target, depth);
+        public bool Clone(Entity source, Entity target) => _components.Copy(source, target);
 
         public bool Clone(EntityReference source, Entity target, Depth depth = Depth.Shallow, bool pool = true)
         {
@@ -58,7 +59,7 @@ namespace Entia.Injectables
             using (var list = _references.Use())
             {
                 source.GetComponents(list.Instance);
-                foreach (var component in list.Instance) cloned |= _delegates.Get(component.GetType()).Clone(component, target, depth, _world);
+                foreach (var component in list.Instance) cloned |= _delegates.Get(component.GetType()).Set(component, target, _world);
             }
 
             if (pool) _components.Set(target, new Components.Pooled { Reference = source });

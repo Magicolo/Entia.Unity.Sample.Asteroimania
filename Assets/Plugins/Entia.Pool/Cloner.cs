@@ -14,9 +14,9 @@ namespace Entia.Injectables
 {
     public readonly struct Cloner : IInjectable
     {
-        [Injector]
-        static readonly Injector<Cloner> _injector = Injector.From(world => new Cloner(world));
-        [Depender]
+        [Implementation]
+        static readonly Injector<Cloner> _injector = Injector.From(context => new Cloner(context.World));
+        [Implementation]
         static readonly IDepender _depender = Depender.From(
             new Dependencies.Unity(),
             new Dependencies.Write(typeof(Entity)),
